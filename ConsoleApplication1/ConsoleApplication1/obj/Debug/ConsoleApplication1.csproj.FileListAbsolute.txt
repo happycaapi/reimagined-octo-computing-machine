@@ -1,6 +1,0 @@
-C:\Users\curtis\FDNS\reimagined-octo-computing-machine\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\curtis\FDNS\reimagined-octo-computing-machine\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\curtis\FDNS\reimagined-octo-computing-machine\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\curtis\FDNS\reimagined-octo-computing-machine\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\Users\curtis\FDNS\reimagined-octo-computing-machine\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\curtis\FDNS\reimagined-octo-computing-machine\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
